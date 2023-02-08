@@ -1,0 +1,38 @@
+{
+    "Nahida":[
+        {"type": "text","path": "nahida/naxida.json"},
+        {"type": "atlas","path": "nahida/naxida.atlas"}
+    ],
+    "Nahida_s":[
+        {"type": "text","path": "nahida/shouye_caoshen.json"},
+        {"type": "atlas","path": "nahida/shouye_caoshen.atlas"}
+    ],
+    "yaoyao":[
+        {"type": "text","path": "yaoyao/yaoyao.json"},
+        {"type": "atlas","path": "yaoyao/yaoyao.atlas"}
+    ],
+    "yaoyao_medium":[
+        {"type": "text","path": "yaoyao/medium_yaoyao.json"},
+        {"type": "atlas","path": "yaoyao/medium_yaoyao.atlas"}
+    ],
+    "yelan":[
+        {"type": "text","path": "yelan/yelan.json"},
+        {"type": "atlas","path": "yelan/yelan.atlas"}
+    ],
+    "laiyila":[
+        {"type": "text","path": "laiyila/laiyila.json"},
+        {"type": "atlas","path": "laiyila/laiyila.atlas"}
+    ],
+    "bachong":[
+        {"type": "text","path": "bachong/bachong.json"},
+        {"type": "atlas","path": "bachong/bachong.atlas"}
+    ],
+    "duoli":[
+        {"type": "text","path": "duoli/duoli.json"},
+        {"type": "atlas","path": "duoli/duoli.atlas"}
+    ],
+    "xiao":[
+        {"type": "text","path": "xiao/xiao.json"},
+        {"type": "atlas","path": "xiao/xiao.atlas"}
+    ]
+}
